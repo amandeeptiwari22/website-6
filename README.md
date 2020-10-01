@@ -1,6 +1,8 @@
-# COVID Tracking Project
+# COVID-19 Tracking Project
 
-The COVID Tracking Project collects information from 50 U.S. states, the District of Columbia, and 5 other U.S. territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2.
+The COVID-19 Tracking Project collects information from 50 U.S. states, the District of Columbia, and 5 other U.S. territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2.
+
+This tracker provides the number of confirmed cases and deaths from novel coronavirus by country, the trend in confirmed case and death counts by country, and a global map showing which countries have confirmed cases and deaths.
 
 This repository is for the project's **website**: https://covidtracking.com/.
 
